@@ -1,3 +1,5 @@
-# Join
-* Discord server: https://discord.gg/wZfHjjM
-* Telegram group: 
+# Join us!
+App | URL
+------------ | -------------
+<a href="https://discord.com"><img src="https://www.google.com/s2/favicons?domain=https://discord.com"> Discord</a> | https://discord.gg/wZfHjjM
+<a href="https://telegram.org/"><img src="https://www.google.com/s2/favicons?domain=https://telegram.org/"> Telegram</a> | 
